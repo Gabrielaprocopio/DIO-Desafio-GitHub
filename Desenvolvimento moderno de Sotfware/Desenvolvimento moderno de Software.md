@@ -1,4 +1,4 @@
-# Desenvolvimento moderno de Softwware
+# Desenvolvimento moderno de Software
 
 ##### Professor: Denilson Bonatti 
 
