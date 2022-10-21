@@ -1,22 +1,19 @@
-# Desafio de projeto sobre Git/Github da DIO :rocket:
-#### Repositório criado para o Desafio de Projeto
+# Desenvolvimento moderno de Softwware
 
-> Este repositório servirá como base para estudos futuros e um compilado de informações já absorvidas durante esse processo do Orange Tech, bootcamp iniciado pelo Inter e DIO.
+##### Professor: Denilson Bonatti 
+
+##### [Material de apoio](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EYHcjptuOoNPs4qzd2upfmwBaLoG_FfSdzZH3zJiBvABiw?rtime=AYC6zm2z2kg)
 
 ```mermaid
 graph TD
  
     C[Desenvolvimento de Softwware]
     C -->|Web| D[Utilizados remotamente, sem necessidade de instalação e atualização local]
+    C --->|Móveis| E[Desenvolvido para ser instalado em Smartphones e/ou tablets, através de lojas on-line, direto para seu dispositivo]
     C -->|Desktop| F[Sistemas autônomos, instalados no computador, normalmente através ded arquivos executáveis]
-            
 ```
 
 ------
-
-
-
-
 
 
 
@@ -123,6 +120,8 @@ Possibilidade de utilizar um <strong>desenvolvimento híbrido</strong> (web), po
 - Android Studio ( Android)
 - X Code ( IOS)
 - Flutter, react native ( Desenvolvimento híbrido).
+
+
 
 
 
